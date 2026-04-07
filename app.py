@@ -75,7 +75,7 @@ def analyze_category():
 
 
 # -------------------------
-# COLOR ANALYSIS (FIXED)
+# COLOR ANALYSIS.
 # -------------------------
 def analyze_color():
     global chart_canvas
@@ -148,7 +148,7 @@ def show_size_chart():
 
 
 # -------------------------
-# DRAW CHART FUNCTION (reusable)
+# DRAW CHART FUNCTION
 # -------------------------
 def draw_chart(fig):
     global chart_canvas
