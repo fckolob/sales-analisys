@@ -60,5 +60,5 @@ The libraries used are: Pandas (to work with data frames and manipulate them), M
 
 * Add the functionality to load more than one dataset.
 * Add the possibility of analyze the trends of the sales across more than one dataset. 
-* Add the possibility to analyze the evolution of the sales trough time.
+* Add the possibility to analyze the evolution of the sales through time.
 
