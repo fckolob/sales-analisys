@@ -161,7 +161,7 @@ def draw_chart(fig):
 # UI SETUP
 # -------------------------
 app = tb.Window(themename="darkly")
-app.title("Inventory Dashboard Pro")
+app.title("Sales Dashboard Pro")
 app.geometry("1000x600")
 
 # Layout
