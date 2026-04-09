@@ -8,7 +8,8 @@ I wrote this code to demonstrate how to implement various Python technologies li
 
 
 
-[Software Demo Video] (http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/Ez3OdLiDXwA
+
 
 # Data Analysis Results
 Which are the top ten sold categories of product? The top ten categories are:
